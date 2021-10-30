@@ -1,0 +1,43 @@
+document.write('<div class=\"expent\" id=\"expent\">');
+document.write('<h6 class=\"separator\">Sponsors:</h6>');
+document.write('	<a href=\"https://www.cambridgepixel.com/\" id=\"cpx_de\" target=\"_blank\"></a><br>');
+document.write('<div class=\"separator\"> </div>');
+document.write('	<a href=\"https://www.rohde-schwarz.com/solutions/test-and-measurement/aerospace-defense/radar-ew-test/spectrum-allocation-poster-radar_250982.html?cid=010_com_dsp_ADT-Radar_rt_20-03_a__poster1\" id=\"RoSw\" target=\"_blank\"></a><br>');
+document.write('<div class=\"separator\"> </div>');
+document.write('	<a href=\"https://www.rhein-koester.com/\" id=\"rhkoe-en\" target=\"_blank\"></a><br>');
+document.write('<div class=\"separator\"> </div>');
+document.write('	<a href=\"http://intersoft-electronics.com/\" id=\"olen\" target=\"_blank\"></a><br>');
+document.write('<div class=\"separator\"> </div>');
+document.write('	<a href=\"https://www.pcbonline.com/PCB-FAB/High-Frequency-PCBs/\" title="High frequency PCB" id=\"pcb\" target=\"_blank\"></a><br>');
+document.write('<div class=\"separator\"> </div>');
+document.write('	<a href=\"https://dedimax.de/\" id=\"hans\" target=\"_blank\"></a><br>');
+document.write('<div class=\"separator\"> </div>');
+document.write('</div>');
+
+
+ function moveBanners() {
+	//	let bannerHeight = document.getElementById("expent").clientHeight;
+        let bannerHeight = 750;
+        let vh = window.innerHeight;
+
+        let topMargin = 15; // oberer Rand
+
+        let pos = window.pageYOffset;
+        if (vh >= bannerHeight) {
+          if (pos > topMargin) {
+            document.getElementById("expent").style.top = pos + "px";
+          }
+          else {
+            document.getElementById("expent").style.top = topMargin + "px";
+          };
+        } else {
+          if (pos > topMargin + bannerHeight - vh) {
+            document.getElementById("expent").style.top = pos + vh - bannerHeight + topMargin + "px";
+          } else {
+            document.getElementById("expent").style.top = topMargin + "px";
+          }
+        }
+      }
+      document.onreadystatechange = moveBanners;
+      document.onscroll = moveBanners;
+      document.onresize = moveBanners;

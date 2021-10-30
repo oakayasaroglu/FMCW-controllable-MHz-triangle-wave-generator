@@ -1,0 +1,10 @@
+document.write('<div class=\"separator hh_yes\"> </div>')
+document.write('<div class=\"hh_yes\"><h6 class=\"separator\">Sponsors:</h6>');
+document.write('	<a href=\"https://event.on24.com/wcc/r/3250504/7AF373AC198FB27BBD1AF3F169417E4B?partnerref=hq_dsp__radar-tutorial" id=\"RoSw4\" target=\"_blank\"></a><br>');
+document.write('<div class=\"separator\"> </div>')
+document.write('	<a href=\"https://www.cambridgepixel.com/\" id=\"cpx_en_hh\" target=\"_blank\"></a><br>');
+document.write('<div class=\"separator\"> </div>')
+document.write('	<a href=\"https://www.rhein-koester.com/\" id=\"rhkoe_hh\" target=\"_blank\"></a><br>');
+document.write('<div class=\"separator\"> </div>')
+document.write('	<a href=\"https://www.pcbonline.com/PCB-FAB/High-Frequency-PCBs/\" title="High frequency PCB" id=\"pcb_hh\" target=\"_blank\"></a><br>');
+document.write('</div>');
