@@ -1,0 +1,29 @@
+ - https://www.google.com/search?client=opera&q=hmc733+eval+board&sourceid=opera&ie=UTF-8&oe=UTF-8
+
+ - https://www.digikey.com/en/products/detail/analog-devices-inc/108648-HMC733LC4B/4794626
+
+ - https://www.analog.com/media/en/technical-documentation/data-sheets/hmc733.pdf
+
+ - https://shinojvk.uccollege.edu.in/wp-content/uploads/sites/196/2016/11/Triangularwave.pdf
+
+ - https://e2e.ti.com/support/amplifiers-group/amplifiers/f/amplifiers-forum/622953/lm741-generation-of-triangular-waveforms-with-1mhz-frequency
+
+ - https://e2e.ti.com/support/amplifiers-group/amplifiers/f/amplifiers-forum/622953/lm741-generation-of-triangular-waveforms-with-1mhz-frequency
+
+ - http://ee.cet.ac.in/downloads/Notes/ECLab/10-Waveform%20Generator%20Using%20OpAmp.pdf
+
+ - https://ieeexplore.ieee.org/document/8565659
+
+ - https://electronics.stackexchange.com/questions/515269/generation-of-triangular-wave-from-passive-networks
+
+ - https://core.ac.uk/download/pdf/80723506.pdf
+
+ - https://www.electro-tech-online.com/threads/square-wave-to-triangular-wave-without-op-amps.109147/
+
+ - https://www.electro-tech-online.com/attachments/benchsig-gen-jpg.44414/
+
+ - https://www.electro-tech-online.com/search/70185/?page=2&q=triangular&o=relevance
+
+ - https://www.planetanalog.com/function-generator-circuit-concepts-part-3-additional-function-generator-fg-capabilities/
+
+ 
