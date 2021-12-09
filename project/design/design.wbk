@@ -1,0 +1,7 @@
+1
+9
+.tran 80u 100u 80u{return}{return}
+1
+1
+OUT
+V
