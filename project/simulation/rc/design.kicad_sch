@@ -237,7 +237,7 @@
     (uuid 3a135d77-db27-4daf-95a6-f611960fe14f)
   )
 
-  (text ".tran 80u 100u 80u" (at 74.93 100.33 0)
+  (text ".tran 80u 100u 80u" (at 76.2 101.6 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7a01b36b-ce06-46ed-ac6b-a4fd1ba3cd5c)
   )
