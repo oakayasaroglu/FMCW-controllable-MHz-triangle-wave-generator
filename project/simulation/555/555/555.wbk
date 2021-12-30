@@ -1,0 +1,10 @@
+1
+9
+.tran 1u 10m 9m uic{return}{return}
+2
+1
+Net-(U1-Pad3)
+V
+1
+TR
+V

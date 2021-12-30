@@ -18,4 +18,6 @@ http://www.learningaboutelectronics.com/Articles/Triangle-wave-generator-circuit
 
 http://www.learningaboutelectronics.com/Articles/Triangle-wave-generator-circuit-with-an-LM741-op-amp.php
 
+https://www.youtube.com/watch?v=nkixhhx8i3Q
+
 https://www.ednasia.com/voltage-controlled-triangle-wave-generator/
